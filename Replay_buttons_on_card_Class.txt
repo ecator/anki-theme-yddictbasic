@@ -1,0 +1,13 @@
+.replaybutton span svg {
+  stroke: none;
+  fill: black;
+  display: inline;
+  height: 1em;
+  width: 1em;
+  min-width: 12px;
+  min-height: 12px;
+}
+
+
+
+<a href='javascript:py.link("ankiplayrec1481180287.mp3");' title="Replay" class="replaybutton browserhide"><span><svg viewBox="0 0 32 32"><polygon points="11,25 25,16 11,7"></polygon>Replay</svg></span></a><span style="display: none;">[sound:rec1481180287.mp3]</span>
